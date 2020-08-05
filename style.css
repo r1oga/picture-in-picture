@@ -17,6 +17,25 @@ body {
   background: #292b30;
 }
 
+footer {
+  font-family: monospace;
+  font-weight: 100;
+  font-size: 1.2rem;
+  position: absolute;
+  bottom: 0.5rem;
+  text-align: center;
+  color: whitesmoke;
+}
+
+a {
+  color: #f32f52;
+}
+
+.fa-github {
+  vertical-align: sub;
+  color: #f32f52;
+}
+
 .button-container {
   border: 2px solid #000;
   padding: 10px;
